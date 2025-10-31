@@ -95,6 +95,4 @@ public class Microcontrolador implements Programable{
         this.acumuladorB = microDeRespaldo.getAcumuladorB();
         this.programaCounter = microDeRespaldo.getProgramCounter();
     }
-
-   
 }
